@@ -2,7 +2,7 @@
 
 このプロジェクトは、SwiftUI を用いた **半透明なモーダルシート（Bottom Sheet）** の実装例です。ユーザーが画面下から引き出すように表示されるモーダルで、サイズの変更や内容の切り替え、アニメーションを伴った表示が可能です。
 
-![イメージ]("Simulator Screenshot - iPhone 16 Pro - 2025-04-26 at 00.17.50.png")
+![Image](https://github.com/user-attachments/assets/b7ba6677-3f93-4d27-9ee4-2079916dc77f)
 ## 特徴
 
 - **ドラッグ操作で高さを変更可能**
